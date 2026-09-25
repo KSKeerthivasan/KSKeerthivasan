@@ -72,8 +72,8 @@ Added global, per-tenant, and per-plugin usage limits with time-windowed quotas 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KSKeerthivasan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSKeerthivasan&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://gh-stats.work/api?username=KSKeerthivasan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://gh-stats.work/api/top-langs/?username=KSKeerthivasan&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
